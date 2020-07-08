@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{F9D5F221-E1B4-4ED8-A4B3-3D59E8625CB9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tasks__Management__System PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tasks_Management_System/Controllers/TasksController.cs">
+    <Files>
+      <File FileName="Tasks_Management_System/Controllers/TasksController.cs" Line="7" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tasks_Management_System" expanded="True">
+            <Node name="Tasks_Management_System" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="TasksController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
